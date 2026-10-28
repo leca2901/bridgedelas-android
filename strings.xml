@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Rede Delas</string>
+    <string name="widget_nome">Rede Delas · Artigos</string>
+    <string name="widget_descricao">Últimos artigos sobre mulheres, com os números 190 e 180.</string>
+    <string name="alerta">Em perigo? 190 · Atendimento à Mulher: 180</string>
+    <string name="botao_mapa">Encontrar ONGs perto de mim</string>
+    <string name="carregando">Carregando artigos… conecte-se à internet.</string>
+</resources>

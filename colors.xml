@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="fundo">#FFFBF7F4</color>
+    <color name="vinho">#FF8E2C5C</color>
+    <color name="texto">#FF2A1A24</color>
+    <color name="suave">#FF6E5A66</color>
+    <color name="alerta">#FFA3261B</color>
+    <color name="linha">#FFEADFE3</color>
+</resources>
